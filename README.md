@@ -43,7 +43,7 @@ Ordem de serviço
 
 ![image](https://github.com/MairaSantoss/Ticket-Service/assets/89280923/17ea6fd3-5872-4013-b9de-19ab8432b069)
 
-Relatorio
+Relatório
 
 ![image](https://github.com/MairaSantoss/Ticket-Service/assets/89280923/7737b6d9-0d64-425a-8926-88c3bfab572f)
 # Considerações
