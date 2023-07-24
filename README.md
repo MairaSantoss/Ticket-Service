@@ -47,7 +47,7 @@ Relatorio
 
 ![image](https://github.com/MairaSantoss/Ticket-Service/assets/89280923/7737b6d9-0d64-425a-8926-88c3bfab572f)
 
-#Considerações
+# Considerações
 Atualmente o aplicativo e o painel estão em produção na web, aplle store e play store disponíveis para venda.
 
 
