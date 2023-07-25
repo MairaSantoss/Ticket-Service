@@ -7,7 +7,7 @@ Ticket Service é uma plataforma para a prestação de serviços, pensado especi
 
 *Linguagens*
 
-O painel foi feito para a internet (web), e usou as seguintes linguagens: javascript, php, html e css. Além de libs como materialize, datatable e jquery. 
+O painel foi feito para a internet (web), e usou as seguintes linguagens: javascript, php, html e css. Além de libs como materialize, datatable, chart e jquery. 
 Base de dados: usado banco de dados relacionais.
 Aplicativo: Híbrido para iOS e Android, foi feito com react native, javascript e api rest. 
 
