@@ -1,13 +1,15 @@
 # Ticket-Service
-<p color='red'> O código fonte não será mostrado, por ser confidencial da empresa: Infoss Sistemas - Sistemas para internet. Conheça mais em: https://infoss.com.br/site/
-</p>
+ <sub>  O código fonte não será mostrado, por ser confidencial da empresa: Infoss Sistemas - Sistemas para internet. Conheça mais em: https://infoss.com.br/site/</sub> 
 
-*Descrição*
+*Descrição* <br>
 Ticket Service é uma plataforma para a prestação de serviços, pensada especialmente para um condomínio, mas ela tem a possibilidade de escalabilidade para outros nichos de mercado. A função principal consiste nos administradores criarem ordens de serviços no Portal Web e os técnicos executarem esses serviços no aplicativo. 
 O Portal foi feito para a internet em POO na arquitetura cliente-servidor, e usou as seguintes linguagens: javascript, php, html e css. Além de libs como materialize, datatable, chart e jquery. Foi usado o banco de dados relacional e documentos JSON. O Aplicativo é híbrido para iOS e android, foi feito com react native, javascript e api rest. 
 
 
-<img src="https://play-lh.googleusercontent.com/vLBHdZZ0B3-sNfeadNuS6WL5ylZ_Wq1yeMHbHTYHDg8sqnQQXekb6g0dBRyYHORoxOA=w2560-h1440-rw" width=180 > <br> <sub> Login </sub> | <img src="https://play-lh.googleusercontent.com/X35LtQffGUivdHbWC-0uGWeDivbSBe8h-J_KL-4piZQVEo0YLtm66oL9Uxr5Yvvskmo=w2560-h1440-rw" width=180 > <br> <sub> Serviço pendente </sub> | <img src="https://play-lh.googleusercontent.com/vCwTvIaICMiPTC2AAJOBT5mqf-ACICYjywDzbGI_N5MvMgP1zLlg9cNIHa2yio0kijc=w2560-h1440-rw" width=180 > <br> <sub> Serviço por executar </sub>| <img src="https://play-lh.googleusercontent.com/nVSz7KeZh7Q99MLQ6nlQ_OCPR2wqBnC6lBg9LLzhGQclKyLKlRFlWuLcoCBLCECEPg=w2560-h1440-rw" width=180 > <br> <sub> Ver detalhes serviço </sub> | <img src="https://play-lh.googleusercontent.com/odK8hcMO-FMIG-TmqS0kV9urWoHR78bK6WtcnWIo5_UwRwag9B55ZV_78wRBfinEZZsI=w2560-h1440-rw" width=180 > <br> <sub> Executando serviço </sub>
+ <sub> Login </sub> <br> <br> <img src="https://play-lh.googleusercontent.com/vLBHdZZ0B3-sNfeadNuS6WL5ylZ_Wq1yeMHbHTYHDg8sqnQQXekb6g0dBRyYHORoxOA=w2560-h1440-rw" width=180 > |<sub> Serviço pendente </sub> <br> <br>  <img src="https://play-lh.googleusercontent.com/X35LtQffGUivdHbWC-0uGWeDivbSBe8h-J_KL-4piZQVEo0YLtm66oL9Uxr5Yvvskmo=w2560-h1440-rw" width=180 >| <sub> Serviço por executar </sub>  <br>  <br>  <img src="https://play-lh.googleusercontent.com/vCwTvIaICMiPTC2AAJOBT5mqf-ACICYjywDzbGI_N5MvMgP1zLlg9cNIHa2yio0kijc=w2560-h1440-rw" width=180 >| <sub> Ver detalhes serviço </sub> <br>  <br> <img src="https://play-lh.googleusercontent.com/nVSz7KeZh7Q99MLQ6nlQ_OCPR2wqBnC6lBg9LLzhGQclKyLKlRFlWuLcoCBLCECEPg=w2560-h1440-rw" width=180 > |<sub> Executando serviço </sub>  <br>  <br> <img src="https://play-lh.googleusercontent.com/odK8hcMO-FMIG-TmqS0kV9urWoHR78bK6WtcnWIo5_UwRwag9B55ZV_78wRBfinEZZsI=w2560-h1440-rw" width=180 > 
+| :---: | :---: | :---: | :---: | :---: | 
+
+ <sub> Login </sub> <br> <br> <img src="https://play-lh.googleusercontent.com/aaBv-b0N6STRlvnHDfLlomK8gYnFB5p5tR2DrezSUS_PEqyt2mMhJmQtZvb_TifaQg=w2560-h1440-rw" width=180 > |<sub> Serviço pendente </sub> <br> <br>  <img src="https://play-lh.googleusercontent.com/ZBxme8354_P4tWmwGSeHnePBJrPx7DPY3LiQk1ZkfTZq4F7oy84WinfYjLydrKo6gSc=w2560-h1440-rw" width=180 >| <sub> Serviço por executar </sub>  <br>  <br>  <img src="https://play-lh.googleusercontent.com/vCwTvIaICMiPTC2AAJOBT5mqf-ACICYjywDzbGI_N5MvMgP1zLlg9cNIHa2yio0kijc=w2560-h1440-rw" width=180 >| <sub> Ver detalhes serviço </sub> <br>  <br> <img src="https://play-lh.googleusercontent.com/nVSz7KeZh7Q99MLQ6nlQ_OCPR2wqBnC6lBg9LLzhGQclKyLKlRFlWuLcoCBLCECEPg=w2560-h1440-rw" width=180 > |<sub> Executando serviço </sub>  <br>  <br> <img src="https://play-lh.googleusercontent.com/odK8hcMO-FMIG-TmqS0kV9urWoHR78bK6WtcnWIo5_UwRwag9B55ZV_78wRBfinEZZsI=w2560-h1440-rw" width=180 > 
 | :---: | :---: | :---: | :---: | :---: | 
 
 Cadastro de serviço
