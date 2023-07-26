@@ -12,37 +12,19 @@ O Portal foi feito para a internet em POO na arquitetura cliente-servidor, e uso
  <sub> Executando inspeção </sub> <br> <br> <img src="https://play-lh.googleusercontent.com/aaBv-b0N6STRlvnHDfLlomK8gYnFB5p5tR2DrezSUS_PEqyt2mMhJmQtZvb_TifaQg=w2560-h1440-rw" width=180 > |<sub> Reporte da inspeção </sub> <br> <br>  <img src="https://play-lh.googleusercontent.com/ZBxme8354_P4tWmwGSeHnePBJrPx7DPY3LiQk1ZkfTZq4F7oy84WinfYjLydrKo6gSc=w2560-h1440-rw" width=180 >| <sub> Deixar serviço pendente </sub>  <br>  <br>  <img src="https://play-lh.googleusercontent.com/lBtdaW068v3zH_gzBkCImDLwxTjuc1YVThWrzfnkDK_H6YPiF7tq2FCG8-gV1EHCknmi=w2560-h1440-rw" width=180 >
 | :---: | :---: | :---: |  
 
-Cadastro de serviço
+# Portal #
+<sub> Cadastro de serviço </sub> <br> <br> <img src="https://github.com/MairaSantoss/Ticket-Service/assets/89280923/48716865-f3b2-4572-89eb-a0d445868752" height=300 > |<sub> Integração de sistema </sub> <br> <br>  <img src="https://github.com/MairaSantoss/Ticket-Service/assets/89280923/96b66547-d7c4-4ecf-b2b6-1c2adf590bf2" height=300 >
+| :---: | :---: | 
 
-![image](https://github.com/MairaSantoss/Ticket-Service/assets/89280923/48716865-f3b2-4572-89eb-a0d445868752)
+<sub> Edição vinculo de casas </sub> <br> <br> <img src="https://github.com/MairaSantoss/Ticket-Service/assets/89280923/624eeacf-f211-41db-bb1b-df7627b4363a"  height=300> |<sub> Edição tipologia </sub> <br> <br>  <img src="https://github.com/MairaSantoss/Ticket-Service/assets/89280923/082c3e66-1d2d-4af0-a4c0-8f4100b916a7"  height=300 >
+| :---: | :---: | 
 
-Integração de sistema
+<sub> Todos os serviços </sub> <br> <br> <img src="https://github.com/MairaSantoss/Ticket-Service/assets/89280923/097d3d0c-c90f-42af-8844-f61d45fb372b"  height=300> |<sub> Monitor </sub> <br> <br>  <img src="https://github.com/MairaSantoss/Ticket-Service/assets/89280923/aabc776b-c7a7-452f-965b-9e67da4f5325"  height=300 >
+| :---: | :---: | 
 
-![image](https://github.com/MairaSantoss/Ticket-Service/assets/89280923/96b66547-d7c4-4ecf-b2b6-1c2adf590bf2)
+<sub> Ordem de inspeção </sub> <br> <br> <img src="https://github.com/MairaSantoss/Ticket-Service/assets/89280923/b132eaaf-5de7-49a3-8a63-0a84582b3809"  height=300> |<sub> Ordem de serviço </sub> <br> <br>  <img src="https://github.com/MairaSantoss/Ticket-Service/assets/89280923/17ea6fd3-5872-4013-b9de-19ab8432b069"  height=300 >
+| :---: | :---: | 
 
-Edição de dados 1
-
-![image](https://github.com/MairaSantoss/Ticket-Service/assets/89280923/624eeacf-f211-41db-bb1b-df7627b4363a)
-
-Edição de dados 2
-
-![image](https://github.com/MairaSantoss/Ticket-Service/assets/89280923/082c3e66-1d2d-4af0-a4c0-8f4100b916a7)
-
-Todos os serviços
-
-![image](https://github.com/MairaSantoss/Ticket-Service/assets/89280923/097d3d0c-c90f-42af-8844-f61d45fb372b)
-
-Monitor
-
-![image](https://github.com/MairaSantoss/Ticket-Service/assets/89280923/aabc776b-c7a7-452f-965b-9e67da4f5325)
-
-Ordem de Servico - inspeção
-
-![image](https://github.com/MairaSantoss/Ticket-Service/assets/89280923/b132eaaf-5de7-49a3-8a63-0a84582b3809)
-
-Ordem de serviço
-
-![image](https://github.com/MairaSantoss/Ticket-Service/assets/89280923/17ea6fd3-5872-4013-b9de-19ab8432b069)
 
 Relatório
 
