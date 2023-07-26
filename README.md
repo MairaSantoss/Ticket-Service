@@ -1,5 +1,5 @@
 # Ticket-Service
-
+Organize sua demanda de serviços 💼🔨
 *Descrição* <br>
 ---
 Ticket Service é uma plataforma para a prestação de serviços, pensada especialmente para um condomínio, mas ela tem a possibilidade de escalabilidade para outros nichos de mercado. A função principal consiste nos administradores criarem ordens de serviços no Portal Web e os técnicos executarem esses serviços no aplicativo. 
