@@ -1,15 +1,14 @@
 # Ticket-Service
-#  O código fonte não será mostrado, por ser confidencial da empresa: Infoss Sistemas - Sistemas para internet. Conheça mais em: https://infoss.com.br/site/
+<p color='red'> O código fonte não será mostrado, por ser confidencial da empresa: Infoss Sistemas - Sistemas para internet. Conheça mais em: https://infoss.com.br/site/
+</p>
 
-*Resumo*
+*Descrição*
+Ticket Service é uma plataforma para a prestação de serviços, pensada especialmente para um condomínio, mas ela tem a possibilidade de escalabilidade para outros nichos de mercado. A função principal consiste nos administradores criarem ordens de serviços no Portal Web e os técnicos executarem esses serviços no aplicativo. 
+O Portal foi feito para a internet em POO na arquitetura cliente-servidor, e usou as seguintes linguagens: javascript, php, html e css. Além de libs como materialize, datatable, chart e jquery. Foi usado o banco de dados relacional e documentos JSON. O Aplicativo é híbrido para iOS e android, foi feito com react native, javascript e api rest. 
 
-Ticket Service é uma plataforma para a prestação de serviços, pensado especialmente para um condomínio mas com a possibilidade de escalabilidade para outros nichos de mercado. O mecanismo principal consiste nos administradores criarem ordens de serviços no painel e os técnicos executam esse serviço no aplicativo. Durante o ciclo de vida do serviço, ele pode possuir diferentes atributos e valores. Outras funções que completam a plataforma é envio de notificações para o app, integração com sistema externo, envio de fotos, timeline, cadastros diversos, monitor, relatórios, automatizações e entre outros. 
 
-*Linguagens*
-
-O painel foi feito para a internet (web), e usou as seguintes linguagens: javascript, php, html e css. Além de libs como materialize, datatable, chart e jquery. 
-Base de dados: usado banco de dados relacionais.
-Aplicativo: Híbrido para iOS e Android, foi feito com react native, javascript e api rest. 
+<img src="https://play-lh.googleusercontent.com/vLBHdZZ0B3-sNfeadNuS6WL5ylZ_Wq1yeMHbHTYHDg8sqnQQXekb6g0dBRyYHORoxOA=w2560-h1440-rw" width=115 > <br> <sub> Diana Regina </sub> | <img src="https://play-lh.googleusercontent.com/X35LtQffGUivdHbWC-0uGWeDivbSBe8h-J_KL-4piZQVEo0YLtm66oL9Uxr5Yvvskmo=w2560-h1440-rw" width=115 > <br> <sub> Diana Regina </sub> | <img src="https://play-lh.googleusercontent.com/vCwTvIaICMiPTC2AAJOBT5mqf-ACICYjywDzbGI_N5MvMgP1zLlg9cNIHa2yio0kijc=w2560-h1440-rw" width=115 > <br> <sub> Diana Regina </sub>| <img src="https://play-lh.googleusercontent.com/nVSz7KeZh7Q99MLQ6nlQ_OCPR2wqBnC6lBg9LLzhGQclKyLKlRFlWuLcoCBLCECEPg=w2560-h1440-rw" width=115 > <br> <sub> Diana Regina </sub> | <img src="https://play-lh.googleusercontent.com/nVSz7KeZh7Q99MLQ6nlQ_OCPR2wqBnC6lBg9LLzhGQclKyLKlRFlWuLcoCBLCECEPg=w2560-h1440-rw" width=115 > <br> <sub> Diana Regina </sub> | <img src="https://play-lh.googleusercontent.com/nVSz7KeZh7Q99MLQ6nlQ_OCPR2wqBnC6lBg9LLzhGQclKyLKlRFlWuLcoCBLCECEPg=w2560-h1440-rw" width=115 > <br> <sub> Diana Regina </sub>
+| :---: | :---: | :---: | :---: | :---: |  :---: | 
 
 Cadastro de serviço
 
