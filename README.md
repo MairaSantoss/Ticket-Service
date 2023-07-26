@@ -1,5 +1,4 @@
 # Ticket-Service #
-<br>
 Organize sua demanda de serviços 💼🔨
 
 *Descrição* <br>
